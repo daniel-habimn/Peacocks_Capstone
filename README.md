@@ -47,6 +47,7 @@ In Phase 3, the focus was on designing a detailed logical model for the database
 - `PHASE 3.docx`: Includes the detailed logical data model for ARMS, with entities and relationships.
 - `FLOW DIAGRAM.PNG`: Flow diagram showcasing data flow and connections within ARMS.
 - `swimlanes.png`: Swimlanes diagram representing tasks and roles.
+- 
 - `bpmn.png`: BPMN diagram illustrating academic record management processes.
 
 ---
